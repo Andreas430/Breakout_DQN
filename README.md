@@ -13,3 +13,6 @@ Kafkalias A., Papayiannis K., Theodosiou M. Department of Computer Science Unive
 
 
 Mnih, V., Kavukcuoglu, K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D. and Riedmiller, M., 2013. Playing atari with deep reinforcement learning. arXiv preprint arXiv:1312.5602.
+
+
+https://user-images.githubusercontent.com/81567474/117579142-4a4ffa00-b0fa-11eb-86a4-d33d8ce9eda6.mp4
